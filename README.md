@@ -26,3 +26,9 @@
 |[18. Поиск по изображению](https://github.com/A1exandr7/Yandex.Practicum-projects/tree/main/18-Image_search_by_description)|Разработать модель соединяющую текстовые данные и изображения. |BERT, Keras, Pytorch, Scikit-learn|
 |[19. Телеком](https://github.com/A1exandr7/Yandex.Practicum-projects/tree/main/19-Graduation_project_telekom)|Оператор связи «ТелеДом» хочет бороться с оттоком клиентов. Для этого его сотрудники начнут предлагать промокоды и специальные условия всем, кто планирует отказаться от услуг связи. Чтобы заранее находить таких пользователей, «ТелеДому» нужна модель, которая будет предсказывать, разорвёт ли абонент договор.| Pytorch, Scikit-learn, Gradient Boosting|
 |[20. Anomaly Detection](https://github.com/A1exandr7/Yandex.Practicum-projects/tree/main/20-Outlier_detection)|Изучить различные подходы для обработки выбросов|Scipy, DBSCAN, OneClassSVM, IsolationForest|
+
+![Стрельцов Александр Владимирович_20232DSP00043 (1) png-1](https://github.com/A1exandr7/Yandex.Practicum-projects/assets/114138239/f5548c4e-0daf-416a-86da-cc4f8e232742)
+![Стрельцов Александр Владимирович_20232DSP00043 (1) png-2](https://github.com/A1exandr7/Yandex.Practicum-projects/assets/114138239/995b1313-e42b-4c15-aba0-015720cfdbc8)
+
+
+
